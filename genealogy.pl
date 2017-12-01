@@ -1,7 +1,7 @@
-male(adam);
-male(john);
-male(pat);
-male(jakob);
+male(adam).
+male(john).
+male(pat).
+male(jakob).
 
 female(eve).
 female(lisa).
